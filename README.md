@@ -13,7 +13,7 @@ I like to keep updating the stuff that I am working on here for variety of purpo
 4. 💬 Despite coming off as reserved and eccentric, I love to find like-minded people and discuss things with them for hours and hours and hours...
 
 <!-- 5. 🤝 It is so hard to summarise myself in 5 lines, please feel free to contact me at pranavchatur@outlook.com. There are so many more things worth discussing right? -->
-5. 🤝 It is so hard to summarise myself in 5 lines, please feel free to contact me at _...(under construction)_. There are so many more things worth discussing right?
+5. 🤝 It is so hard to summarise myself in 5 lines, please feel free to contact me at pranav＠stillanyway｡com. There are so many more things worth discussing right?
 
 <!--
 - I am a philomath 👨‍🏫 and a melophile 🎶.
@@ -37,3 +37,25 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+#### My PGP Key:
+```text
+-----BEGIN PGP PUBLIC KEY BLOCK-----
+
+xjMEapPCnRYJKwYBBAHaRw8BAQdAUtBSFlNzeaWm5YaAmrt7Ssd26acWqR6O
+NPVmXB5jphbNJlByYW5hdiBDaGF0dXIgPHByYW5hdkBzdGlsbGFueXdheS5j
+b20+wsATBBMWCgCFBYJqk8KdAwsJBwkQXy4/atDBJgNFFAAAAAAAHAAgc2Fs
+dEBub3RhdGlvbnMub3BlbnBncGpzLm9yZyzivcZbD8Z/NyP7dD9hx2+1LXHZ
+Iue8EUMbLbXxlCjKBRUKCA4MBBYAAgECGQECmwMCHgEWIQTdGiUXvuzyZ6r+
+X4VfLj9q0MEmAwAAQiABAJpZ4pCPus34yL5kdICbbANSMxlvXukjuBBBfFFP
+S5NoAP9U7/bZwrbeb7EbjyGcR8sPgShAKtORT7kOhzmCy8csA844BGqTwp0S
+CisGAQQBl1UBBQEBB0BffBh88uDiIQ9xGv7Bp+ihsHwV8rnTyS4s6NM4an0/
+FQMBCAfCvgQYFgoAcAWCapPCnQkQXy4/atDBJgNFFAAAAAAAHAAgc2FsdEBu
+b3RhdGlvbnMub3BlbnBncGpzLm9yZ8qzlpKx9EOnzVBQRBxZAA1JQERHc5nW
+BY2aNQWmdypaApsMFiEE3RolF77s8meq/l+FXy4/atDBJgMAAAe8AQCzDPcT
+6gH4KtZjkt5YHPzU3IVD/volf7b3R5O3J+YagAD/eR2TUJIbYgIzlSb2/UdT
+/N4GGn431QSNDpRjfXNzSgQ=
+=0v2O
+-----END PGP PUBLIC KEY BLOCK-----
+
+```
